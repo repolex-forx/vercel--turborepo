@@ -23,13 +23,13 @@
       "@type": "repolex:GraphFile",
       "repolex:graphType": "branch",
       "repolex:graphFilePath": "branch/branch.nq.gz",
-      "repolex:graphFileSize": 63897
+      "repolex:graphFileSize": 63636
     },
     {
       "@type": "repolex:GraphFile",
       "repolex:graphType": "tag",
       "repolex:graphFilePath": "tag/tag.nq.gz",
-      "repolex:graphFileSize": 107587
+      "repolex:graphFileSize": 107274
     },
     {
       "@type": "repolex:GraphFile",
@@ -45,7 +45,7 @@
     }
   ],
   "repolex:parseStatus": "metadata_complete",
-  "repolex:parsedAt": "2026-09-28T23:15:59.579406+00:00",
+  "repolex:parsedAt": "2026-09-28T23:34:24.660920+00:00",
   "repolex:parserVersion": "0.1.10",
   "git:tagName": "@vercel/webpack-nft@0.0.15-alpha.2"
 }
