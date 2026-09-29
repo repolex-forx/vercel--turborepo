@@ -42,9 +42,15 @@
       "repolex:graphType": "pr",
       "repolex:graphFilePath": "pr/pr.nq.gz",
       "repolex:graphFileSize": 7661784
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "ast",
+      "repolex:graphFilePath": "aggregate/ast/b6bc4d3003d564a9d2af357278d0ed9d57791ead/chunk-001.nq.gz",
+      "repolex:graphFileSize": 60684978
     }
   ],
-  "repolex:parseStatus": "metadata_complete",
+  "repolex:parseStatus": "ast_complete",
   "repolex:parsedAt": "2026-09-28T23:41:15.985072+00:00",
   "repolex:parserVersion": "0.1.10",
   "git:tagName": "@vercel/webpack-nft@0.0.15-alpha.2"
